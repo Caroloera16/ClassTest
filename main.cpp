@@ -7,4 +7,6 @@ int main() {
 
   cout << "How many numbers are you going to type:" << endl;
   cin >> n;
+  
+  return 0;
 }
